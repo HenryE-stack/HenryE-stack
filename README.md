@@ -6,3 +6,5 @@ I am a Data Historian Engineer, currently working as an integrator of the AVEVA 
 
 
 Check out my LinkedIn: https://www.linkedin.com/in/henry-egbulam/
+
+Certifications: https://github.com/HenryE-stack/Certifications
