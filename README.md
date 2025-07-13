@@ -4,7 +4,7 @@
 - Have over three years experience in pharmaceutical and medical device manufacturing 💊.<br>
 - Obtained a Bachelors in Electroinc and Computer Engineering ⚙️.<br>
 - Currently in the progress of completing a Masters in Data Anayltics 📊.<br>
-- Also learning DataBricks and AWS 📗.<br>
+- Also learning Databricks and AWS 📗.<br>
 
 
 Check out my LinkedIn: https://www.linkedin.com/in/henry-egbulam/
