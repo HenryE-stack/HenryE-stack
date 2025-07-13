@@ -34,8 +34,6 @@ The pipeline, orchestrated by Dagster , extracts data from a web API and CSV fil
 A key challenge was cleaning and standardizing the 'State' field for merging.<br>
 The final, consolidated dataset is loaded into a PostgreSQL database , with Bokeh used to create visualizations exploring the relationships between food environments and health outcomes. <br>
 
-Of course. Here is a concise summary for your Food Environment Atlas project.
-
 **Tools Used**<br>
 - Data Orchestration: Dagster 
 - Programming & Environment: Python, Conda 
