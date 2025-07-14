@@ -2,7 +2,7 @@
 
 - Currently working as an integrator of the [AVEVA PI System](https://github.com/HenryE-stack/HenryE-stack/assets/76691441/a9a9cd1e-ebe5-4ef5-8362-6ef9aa4a14cb) 🖥️.<br>
 - Have over three years experience in pharmaceutical and medical device manufacturing 💊.<br>
-- Obtained a Bachelors in Electroinc and Computer Engineering ⚙️.<br>
+- Obtained a Bachelors in Electronic and Computer Engineering ⚙️.<br>
 - Currently in the progress of completing a Masters in Data Anayltics 📊.<br>
 - Also learning Databricks and AWS 📗.<br>
 
