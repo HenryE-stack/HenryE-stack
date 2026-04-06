@@ -1,15 +1,16 @@
-### Hi👋, I'm Henry, a Data Engineer at Cognizant
+### Hi👋, I'm Henry, a Manufacturing Data Engineer at Cognizant
 
 - Currently working as an integrator of the [AVEVA PI System](https://github.com/HenryE-stack/HenryE-stack/assets/76691441/a9a9cd1e-ebe5-4ef5-8362-6ef9aa4a14cb) 🖥️.<br>
 - Have over three years experience in pharmaceutical and medical device manufacturing 💊.<br>
-- Obtained a Bachelors in Electronic and Computer Engineering ⚙️.<br>
-- Currently in the progress of completing a Masters in Data Anayltics 📊.<br>
+- Obtained a Bachelors in Electronic and Computer Engineering and a Masters in Data Analytics 🎓.<br>
 - Also learning Databricks and AWS 📗.<br>
 
+### 🛠️ Tech Stack & Tools
 
-Check out my LinkedIn: https://www.linkedin.com/in/henry-egbulam/
-
-Certifications: https://github.com/HenryE-stack/Certifications<br>
+**Industrial Data:** AVEVA PI System (AF, Vision, Data Archive, Event Frames, RtReports), OPC UA/DA, MQTT  
+**Data Engineering:** Python, SQL, Databricks, ETL Pipelines  
+**Cloud & DevOps:** AWS, Docker, Git  
+**Analytics & BI:** Power BI, Tableau, Time-Series Forecasting
 
 
 ## Academic Projects
@@ -19,13 +20,6 @@ Certifications: https://github.com/HenryE-stack/Certifications<br>
 This project involved building a Business Intelligence system to enhance Netflix's customer engagement and profitability.<br>
 Real financial data and mock user data were cleaned, transformed, and integrated into a PostgreSQL database.<br>
 A series of interactive Power BI dashboards were then developed to visualize key business metrics for management, covering membership growth, regional financial performance, and customer experience.<br>
-
-**Tools Used**<br>
-- Data Storage & Management: PostgreSQL, PGAdmin 
-- Data Integration & Transformation: Python, Microsoft Excel 
-- BI & Visualization: Power BI 
-- Version Control & Collaboration: GitHub, Microsoft Teams 
-- Containerization: Docker
 
 ### Food Environment Atlas & National Obesity by State - Data Analysis - [Repo](https://github.com/HenryE-stack/GroupE_DataProject)
 **Project Summary**<br>
@@ -42,3 +36,6 @@ The final, consolidated dataset is loaded into a PostgreSQL database , with Boke
 - Visualization: Bokeh 
 - Database Management: PGAdmin
 
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/henry-egbulam/](https://www.linkedin.com/in/henry-egbulam/)
+- **Certifications:** [View My Certs](https://github.com/HenryE-stack/Certifications)
