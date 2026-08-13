@@ -1,40 +1,37 @@
-### Hi👋, I'm Henry, a Manufacturing Data Engineer at Cognizant
-
-- Currently working as an integrator of the [AVEVA PI System](https://github.com/HenryE-stack/HenryE-stack/assets/76691441/a9a9cd1e-ebe5-4ef5-8362-6ef9aa4a14cb) 🖥️.<br>
-- Have over three years experience in pharmaceutical and medical device manufacturing 💊.<br>
-- Obtained a Bachelors in Electronic and Computer Engineering and a Masters in Data Analytics 🎓.<br>
-- Also learning Ignition and AWS 📗.<br>
+### Hi👋, I'm Henry, a Manufacturing Data Engineer and AVEVA PI Specialist
 
 ### 🛠️ Tech Stack & Tools
 
-**Industrial Data:** AVEVA PI System (AF, Vision, Data Archive, Event Frames, RtReports), OPC UA/DA, MQTT  
+**Industrial Data:** AVEVA PI System (AF, Vision, Data Archive, Event Frames, RtReports), OPC UA/DA, Ignition
 **Data Engineering:** Python, SQL, Databricks, ETL Pipelines  
-**Cloud & DevOps:** AWS, Docker, Git  
+**Cloud & DevOps:** AWS, Docker, Git 
 **Analytics & BI:** Power BI, Tableau, Time-Series Forecasting
 
 
-## Academic Projects
+## Featured Projects and POCs
 
-### Netflix Business Intelligence System - Business Intelligence and Business Analytics Continuous Assessment - [Repo](https://github.com/HenryE-stack/BI-BA_Netflix_Project/tree/main)<br>
-**Project Summary**<br>
-This project involved building a Business Intelligence system to enhance Netflix's customer engagement and profitability.<br>
-Real financial data and mock user data were cleaned, transformed, and integrated into a PostgreSQL database.<br>
-A series of interactive Power BI dashboards were then developed to visualize key business metrics for management, covering membership growth, regional financial performance, and customer experience.<br>
+#### 🎓 [M.Sc. Research Project] [Hyper-Local Weather Nowcasting: IoT Sensors vs. Open Data Platforms](https://github.com/HenryE-stack/Study-on-Weather-Nowcasting)
+**Role:** End-to-End Data Engineer & ML Researcher  
+**The Challenge:** Open weather APIs often lack hyper-local precision due to regional interpolation, leaving a gap for applications requiring real-time site-specific accuracy.  
+**The Solution:** Built a complete IoT-to-ML pipeline collecting 1Hz ambient data (temperature, humidity, pressure) via a custom Raspberry Pi 5 weather station. Synchronized sensor streams with OpenWeatherMap API data using InfluxDB and trained a **Stacked GRU Deep Learning model** to evaluate the "nowcasting edge" of local sensor data over a 60-minute window.  
+**Key Results:** 
+- The IoT-enhanced model reduced error rates at the 5-minute mark by **79.2% for Temperature** and **90.9% for Pressure** compared to API-only models.
+- Maintained a **30%–83% performance lead** up to the 60-minute forecast horizon.  
+**Key Tech:** Python, Raspberry Pi 5, InfluxDB, TensorFlow/Keras (Stacked GRU), Pandas, Scikit-Learn, Grafana.
 
-### Food Environment Atlas & National Obesity by State - Data Analysis - [Repo](https://github.com/HenryE-stack/GroupE_DataProject)
-**Project Summary**<br>
-This project demonstrates an automated ETL (Extract-Transform-Load) pipeline to create a unified data repository on nutrition. It combines the U.S. Food Environment Atlas and National Obesity by State datasets.<br>
-The pipeline, orchestrated by Dagster , extracts data from a web API and CSV files, loads it into MongoDB for staging , and performs transformations using Python and Pandas.<br>
-A key challenge was cleaning and standardizing the 'State' field for merging.<br>
-The final, consolidated dataset is loaded into a PostgreSQL database , with Bokeh used to create visualizations exploring the relationships between food environments and health outcomes. <br>
 
-**Tools Used**<br>
-- Data Orchestration: Dagster 
-- Programming & Environment: Python, Conda 
-- Databases: PostgreSQL (relational store), MongoDB (document store) 
-- Containerization: Docker 
-- Visualization: Bokeh 
-- Database Management: PGAdmin
+#### [Food Environment Atlas & National Obesity Analysis](https://github.com/HenryE-stack/GroupE_DataProject)
+**Role:** Data Engineer & Orchestration Lead  
+**The Challenge:** Automating a complex ETL pipeline for disparate health and nutrition datasets.  
+**The Solution:** Built a Python-based pipeline orchestrated by **Dagster**, using **MongoDB** for flexible staging and **PostgreSQL** for the final relational store. Visualized insights using **Bokeh**.  
+**Key Tech:** Dagster, Python, Docker, MongoDB, PostgreSQL.
+
+
+#### [Netflix Business Intelligence System](https://github.com/HenryE-stack/BI-BA_Netflix_Project/tree/main)
+**Role:** BI Developer  
+**The Project:** Developed an end-to-end BI system to track global membership growth and regional financial performance.  
+**Key Tech:** PostgreSQL, Power BI, Python, Docker.
+
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/henry-egbulam/](https://www.linkedin.com/in/henry-egbulam/)
