@@ -21,7 +21,7 @@
 
 
 #### [Food Environment Atlas & National Obesity Analysis](https://github.com/HenryE-stack/GroupE_DataProject)
-**Role:** Data Engineer
+**Role:** Data Engineer  
 **The Challenge:** Automating a complex ETL pipeline for disparate health and nutrition datasets.  
 **The Solution:** Built a Python-based pipeline orchestrated by **Dagster**, using **MongoDB** for flexible staging and **PostgreSQL** for the final relational store. Visualized insights using **Bokeh**.  
 **Key Tech:** Dagster, Python, Docker, MongoDB, PostgreSQL.
