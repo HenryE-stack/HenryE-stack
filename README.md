@@ -11,7 +11,7 @@
 ## Featured Projects and POCs
 
 #### 🎓 [M.Sc. Research Project] [Hyper-Local Weather Nowcasting: IoT Sensors vs. Open Data Platforms](https://github.com/HenryE-stack/Study-on-Weather-Nowcasting)
-**Role:** End-to-End Data Engineer & ML Researcher  
+**Role:** Data Engineer & ML Researcher  
 **The Challenge:** Open weather APIs often lack hyper-local precision due to regional interpolation, leaving a gap for applications requiring real-time site-specific accuracy.  
 **The Solution:** Built a complete IoT-to-ML pipeline collecting 1Hz ambient data (temperature, humidity, pressure) via a custom Raspberry Pi 5 weather station. Synchronized sensor streams with OpenWeatherMap API data using InfluxDB and trained a **Stacked GRU Deep Learning model** to evaluate the "nowcasting edge" of local sensor data over a 60-minute window.  
 **Key Results:** 
@@ -21,7 +21,7 @@
 
 
 #### [Food Environment Atlas & National Obesity Analysis](https://github.com/HenryE-stack/GroupE_DataProject)
-**Role:** Data Engineer & Orchestration Lead  
+**Role:** Data Engineer
 **The Challenge:** Automating a complex ETL pipeline for disparate health and nutrition datasets.  
 **The Solution:** Built a Python-based pipeline orchestrated by **Dagster**, using **MongoDB** for flexible staging and **PostgreSQL** for the final relational store. Visualized insights using **Bokeh**.  
 **Key Tech:** Dagster, Python, Docker, MongoDB, PostgreSQL.
