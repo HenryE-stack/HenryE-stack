@@ -2,10 +2,10 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Industrial Data:** AVEVA PI System (AF, Vision, Data Archive, Event Frames, RtReports), OPC UA/DA, Ignition
-**Data Engineering:** Python, SQL, Databricks, ETL Pipelines  
-**Cloud & DevOps:** AWS, Docker, Git 
-**Analytics & BI:** Power BI, Tableau, Time-Series Forecasting
+* **Industrial Data:** AVEVA PI System (AF, Vision, Data Archive, Event Frames, RtReports), OPC UA/DA, Ignition
+* **Data Engineering:** Python, SQL, Databricks, ETL Pipelines
+* **Cloud & DevOps:** AWS, Docker, Git
+* **Analytics & BI:** Power BI, Tableau, Time-Series Forecasting
 
 
 ## Featured Projects and POCs
